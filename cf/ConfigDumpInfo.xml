@@ -1005,9 +1005,10 @@
 		<Metadata name="Catalog.НастройкиТранспортаСообщенийОбмена.Form.ФормаЭлемента.Form" id="6cbdbace-b430-4e44-a325-77c61a1575ce.0" configVersion="cd72ef3c1ada124f93db1fa66dc620ed00000000"/>
 		<Metadata name="Catalog.НастройкиТранспортаСообщенийОбмена.ManagerModule" id="b142e431-66bd-4e28-a159-40df0c12fee2.3" configVersion="1a8ebbf700e2954c9266b27e51b3f0b300000000"/>
 		<Metadata name="Catalog.НастройкиТранспортаСообщенийОбмена.ObjectModule" id="b142e431-66bd-4e28-a159-40df0c12fee2.0" configVersion="ffc79889ead1ea4e960b5f82b1d7ba3700000000"/>
-		<Metadata name="Catalog.Номенклатура" id="dcb8e4b6-f5ed-4759-971b-1d333deeb157" configVersion="9333ba8061eb5345b291cb21e37b9adc00000000">
-			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="c9925abf-f9e3-424c-8cfa-b2bb7e01f570"/>
+		<Metadata name="Catalog.Номенклатура" id="dcb8e4b6-f5ed-4759-971b-1d333deeb157" configVersion="3c5c2be01cae4f4684adaf10a60194e400000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ВидНоменклатуры" id="55694aad-7426-4992-8976-51043dbc0bcd"/>
 		</Metadata>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="dcb8e4b6-f5ed-4759-971b-1d333deeb157.0" configVersion="b2946044513a2e41964c5082c152ffc500000000"/>
 		<Metadata name="Catalog.ОбщиеВнешниеКомпоненты" id="46417026-c44a-4a06-af41-9cf6495a33b4" configVersion="22f5b9b3cd07f6419221460c6da34a6700000000">
 			<Metadata name="Catalog.ОбщиеВнешниеКомпоненты.Attribute.Идентификатор" id="363c15f3-660e-4e19-b3cc-37c5d05e8d22"/>
 			<Metadata name="Catalog.ОбщиеВнешниеКомпоненты.Attribute.ДатаВерсии" id="59d5cd7d-7f53-4015-89d9-bb8ad89f8c04"/>
@@ -1587,6 +1588,7 @@
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.КомпонентаExtraCryptoAPI_3_1_3_15.Template" id="5189beb9-b939-4f97-aca0-c2f3492ac8b9.0" configVersion="f153b24af8629543b44bed178f87225a00000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Штамп" id="0b139d7a-b583-4082-b9f2-8f3fb444bd51" configVersion="58f2bb0536d34240a167aea7fef45a5400000000"/>
 		<Metadata name="Catalog.СертификатыКлючейЭлектроннойПодписиИШифрования.Template.Штамп.Template" id="0b139d7a-b583-4082-b9f2-8f3fb444bd51.0" configVersion="cde466d990829d4f880b6ebe3d5c966400000000"/>
+		<Metadata name="Catalog.Склады" id="2ce78e16-34ca-48c5-85d8-91d6232b3bb4" configVersion="512f31457a9fc74d9c16641e96f9f96400000000"/>
 		<Metadata name="Catalog.СообщениеSMSПрисоединенныеФайлы" id="b8931f98-c1d7-4e9b-be43-065064e7ba95" configVersion="24b3d103b77f24479fa773954f6396b900000000">
 			<Metadata name="Catalog.СообщениеSMSПрисоединенныеФайлы.Attribute.Том" id="00e87d04-8104-420b-b2c6-7304889a75b2"/>
 			<Metadata name="Catalog.СообщениеSMSПрисоединенныеФайлы.Attribute.ДатаЗаема" id="0761c32c-1de6-4c40-9178-64aeb46b6622"/>
@@ -4909,7 +4911,7 @@
 		<Metadata name="CommonTemplate.СтруктураПодчиненности.Template" id="7a62d031-c340-4b1e-90af-fff697a2e979.0" configVersion="116cefc3f1b5ce4ca27cae77d556187300000000"/>
 		<Metadata name="CommonTemplate.ШтампЭлектроннойПодписиOfficeOpen" id="faf89779-2290-4d37-b1ea-e81b1b79f74c" configVersion="647bf6ec44219f44b1bb344e6bf95e3d00000000"/>
 		<Metadata name="CommonTemplate.ШтампЭлектроннойПодписиOfficeOpen.Template" id="faf89779-2290-4d37-b1ea-e81b1b79f74c.0" configVersion="ca07749da09d6f4da41f151be95e3a3400000000"/>
-		<Metadata name="Configuration.Проект1С" id="9baebbf5-78cb-4172-8324-7efe539cc518" configVersion="527dbd4892eeaa4789105374747e644400000000"/>
+		<Metadata name="Configuration.Проект1С" id="9baebbf5-78cb-4172-8324-7efe539cc518" configVersion="d5e912b81d8ae94c886279ea4e2e208c00000000"/>
 		<Metadata name="Configuration.Проект1С.ExternalConnectionModule" id="be73047f-2939-46eb-bdca-1c2643a2872b.5" configVersion="045833111c3dc548bbdaa9af287bc8c600000000"/>
 		<Metadata name="Configuration.Проект1С.MainSectionPicture" id="be73047f-2939-46eb-bdca-1c2643a2872b.c" configVersion="48ad1095358892409838633c859e3de400000000"/>
 		<Metadata name="Configuration.Проект1С.ManagedApplicationModule" id="be73047f-2939-46eb-bdca-1c2643a2872b.6" configVersion="ad2e5782d8bbd2498836af85b6832a2a00000000"/>
@@ -7527,10 +7529,10 @@
 			<Metadata name="Enum.ВидыНазначенияДатЗапрета.EnumValue.ДляВсехИнформационныхБаз" id="a5a40ca7-d665-420b-a516-1355019d6901"/>
 			<Metadata name="Enum.ВидыНазначенияДатЗапрета.EnumValue.ДляВсехПользователей" id="ee635706-6ee2-4956-8d58-a235f64687f6"/>
 		</Metadata>
-		<Metadata name="Enum.ВидыНоменклатуры" id="7495ad8f-1e74-4281-b50c-a41063a17125" configVersion="4d208f77b343384a99a73fa4d9179f4600000000">
-			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Листовки" id="1d0d0d5c-1ed4-47d3-89c9-f554e6f809eb"/>
-			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Книги" id="6d010892-f698-4caa-a327-aa30dcd0b052"/>
-			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Баннеры" id="757de0ea-ed49-47ea-9bbd-a9866dbc7f39"/>
+		<Metadata name="Enum.ВидыНоменклатуры" id="7495ad8f-1e74-4281-b50c-a41063a17125" configVersion="c7bc84395061df459c45f3819f37ff7b00000000">
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Баннер" id="be00402b-6b33-4d74-9a49-95c430b97c2a"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Книга" id="d305cd60-b694-4d07-a63a-ea1bd4e48338"/>
+			<Metadata name="Enum.ВидыНоменклатуры.EnumValue.Листовка" id="d926b9dd-bb69-48e9-9873-8012853a56dc"/>
 		</Metadata>
 		<Metadata name="Enum.ВидыПереключателяВАнкетах" id="198ea989-5001-47ac-86b8-aa2585a5f7d7" configVersion="69519efb94a93049bd6bed13096a84f200000000">
 			<Metadata name="Enum.ВидыПереключателяВАнкетах.EnumValue.Переключатель" id="4abe448b-a225-4ac2-8cc9-c3c6c0e9b1ac"/>
@@ -8284,11 +8286,6 @@
 			<Metadata name="HTTPService.exchange_dsl_1_0_0_1.URLTemplate.УдалитьУзелОбмена" id="fa96d6f9-1770-41b4-990d-21b53206454a"/>
 		</Metadata>
 		<Metadata name="HTTPService.exchange_dsl_1_0_0_1.Module" id="c09df096-f9cc-4b2f-a44e-69147339dc8c.0" configVersion="175ebaa91c41d94cbc5a0134bafb460500000000"/>
-		<Metadata name="HTTPService.Номенклатуры" id="60e81a89-491b-4ce9-ad58-6842fb10fa3b" configVersion="0eab9e68ff0a0c48bd8464c6af3eb1f600000000">
-			<Metadata name="HTTPService.Номенклатуры.URLTemplate.РаботаСПродуктами" id="8289ef84-7fc5-4ec5-8fb7-0287dc64678d"/>
-			<Metadata name="HTTPService.Номенклатуры.URLTemplate.РаботаСПродуктами.Method.ПолучитьДанныеНоменклатуры" id="cc73e9bf-5ce2-4d69-b6c4-28d464427e0c"/>
-		</Metadata>
-		<Metadata name="HTTPService.Номенклатуры.Module" id="60e81a89-491b-4ce9-ad58-6842fb10fa3b.0" configVersion="5df4b9749e605b4db38954f4085ce45d00000000"/>
 		<Metadata name="InformationRegister.АдминистративнаяИерархия" id="ab4dbaff-cee6-47b3-9d69-13ac5c906f95" configVersion="3c1d6ee4fa11ff4b9f748f92f005d0a700000000">
 			<Metadata name="InformationRegister.АдминистративнаяИерархия.Dimension.КодСубъектаРФ" id="7652c0d3-1b6e-4e0d-96d0-7bbdff808ce9"/>
 			<Metadata name="InformationRegister.АдминистративнаяИерархия.Dimension.Идентификатор" id="82d5ed02-654f-4b86-b995-baf64a147a12"/>

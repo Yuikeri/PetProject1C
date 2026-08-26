@@ -1758,7 +1758,6 @@
 			<WebService>RemoteAdministrationOfExchange_2_1_6_1</WebService>
 			<WebService>RemoteAdministrationOfExchange_2_4_5_1</WebService>
 			<WebService>RemoteControl</WebService>
-			<HTTPService>Номенклатуры</HTTPService>
 			<HTTPService>exchange_dsl_1_0_0_1</HTTPService>
 			<EventSubscription>ВариантыОтчетовПередУдалениемИдентификатораОбъектаМетаданных</EventSubscription>
 			<EventSubscription>ВариантыОтчетовПриУдаленииПользователя</EventSubscription>
@@ -2463,6 +2462,7 @@
 			<Catalog>ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</Catalog>
 			<Catalog>ЭлектронноеПисьмоИсходящееПрисоединенныеФайлы</Catalog>
 			<Catalog>ЯзыкиПечатныхФорм</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>АктОбУничтоженииПерсональныхДанных</Document>
 			<Document>Анкета</Document>
 			<Document>Встреча</Document>
