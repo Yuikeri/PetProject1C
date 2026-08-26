@@ -38,39 +38,39 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="1d0d0d5c-1ed4-47d3-89c9-f554e6f809eb">
+			<EnumValue uuid="d926b9dd-bb69-48e9-9873-8012853a56dc">
 				<Properties>
-					<Name>Листовки</Name>
+					<Name>Листовка</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Листовки</v8:content>
+							<v8:content>Листовка</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Color>auto</Color>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="6d010892-f698-4caa-a327-aa30dcd0b052">
+			<EnumValue uuid="d305cd60-b694-4d07-a63a-ea1bd4e48338">
 				<Properties>
-					<Name>Книги</Name>
+					<Name>Книга</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Книги</v8:content>
+							<v8:content>Книга</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Color>auto</Color>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="757de0ea-ed49-47ea-9bbd-a9866dbc7f39">
+			<EnumValue uuid="be00402b-6b33-4d74-9a49-95c430b97c2a">
 				<Properties>
-					<Name>Баннеры</Name>
+					<Name>Баннер</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Баннеры</v8:content>
+							<v8:content>Баннер</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

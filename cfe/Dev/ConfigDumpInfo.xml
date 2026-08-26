@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="f76ea76e-ae06-4fcb-8e58-5bebdb310ad5" configVersion="4824a499afd397420efeefd16188bfdc20287d5d"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="f76ea76e-ae06-4fcb-8e58-5bebdb310ad5.0" configVersion="e8997a6abf9130a804136069061b174add453fda"/>
+		<Metadata name="CommonModule.Dev_РаботаСHTTPСервисами" id="a36bfa6f-1338-4876-b9da-d2e8f10181ed" configVersion="18fb38ab7630ef5b7767b2e7f4ab455b46fb8f88"/>
+		<Metadata name="CommonModule.Dev_РаботаСHTTPСервисами.Module" id="a36bfa6f-1338-4876-b9da-d2e8f10181ed.0" configVersion="43c32e74a360e76481a7c3df64f26d7e80eec134"/>
+		<Metadata name="CommonModule.Dev_РаботаСJSON" id="0ea42b6e-db12-43a6-ab5d-a19ff54ce4c6" configVersion="ab169dc661edb598b17307ef6916b6da531e5912"/>
+		<Metadata name="CommonModule.Dev_РаботаСJSON.Module" id="0ea42b6e-db12-43a6-ab5d-a19ff54ce4c6.0" configVersion="71133713bc1bbaa401d405220389dc969230ea2a"/>
+		<Metadata name="CommonModule.Dev_ФормированиеИОбработкаДанныхДляHTTPСервисов" id="31bee733-7dda-4c53-a6ff-f6ffef578a51" configVersion="ff097aeb53a56f0337a7c2d58ca0bcfa046064ef"/>
+		<Metadata name="CommonModule.Dev_ФормированиеИОбработкаДанныхДляHTTPСервисов.Module" id="31bee733-7dda-4c53-a6ff-f6ffef578a51.0" configVersion="167ac80c153e87a5bc855b396b136258b3c89226"/>
+		<Metadata name="Configuration.Dev" id="5f7624e7-9e24-4cb2-8fdf-1e8b678d010f" configVersion="2001c1ab2c505d464c52ef44469064ef5eedaaaa"/>
+		<Metadata name="HTTPService.Dev_РаботаСНоменклатурами" id="475d100a-9f96-4fbd-997e-f6320cf73eeb" configVersion="afd84a3fee2c47afb19dacd8e123dff868c2c622">
+			<Metadata name="HTTPService.Dev_РаботаСНоменклатурами.URLTemplate.ИзменениеРеквизитовНоменклатуры" id="05ba1900-636f-457e-b59f-cf966664b05d"/>
+			<Metadata name="HTTPService.Dev_РаботаСНоменклатурами.URLTemplate.ИзменениеРеквизитовНоменклатуры.Method.PATCH" id="06a4493e-abab-4460-8b61-abfebba2bf38"/>
+			<Metadata name="HTTPService.Dev_РаботаСНоменклатурами.URLTemplate.ПолучениеСпискаНоменклатур.Method.GET" id="16a5340f-7d11-4cc1-81cb-eaabc6bcfb45"/>
+			<Metadata name="HTTPService.Dev_РаботаСНоменклатурами.URLTemplate.ПолучениеСпискаНоменклатур" id="54167503-d388-4548-b9fe-b24b2348abfa"/>
+		</Metadata>
+		<Metadata name="HTTPService.Dev_РаботаСНоменклатурами.Module" id="475d100a-9f96-4fbd-997e-f6320cf73eeb.0" configVersion="e7c3c63a7f951c011689b269cca8177e3c451ed8"/>
+		<Metadata name="Language.Русский" id="8ecab7eb-e8d9-4ccc-8443-9a04fc6b8d2b" configVersion="0dd0b4cd36f4966d492c18ab3d0e42043f4e937e"/>
+		<Metadata name="Role.Dev_ОсновнаяРоль" id="d15edbed-ad39-4eec-b535-6dd06d928a05" configVersion="b5aa65e6e55eee784e46e614279f949fcfa1f02f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
